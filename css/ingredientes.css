@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+.ingre{
+    color:rgb(67, 106, 212);
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+
+}
+.itens{
+    color:darkgreen;
+    font-size: 21px;
+    font-weight: 300;
+    text-align: center;
+}
